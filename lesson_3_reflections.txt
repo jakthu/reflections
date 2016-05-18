@@ -11,3 +11,7 @@ branches - branch form the master branch
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 In case you do not have internet access for a while
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Phone each other. Easier to stay update with each other, harder everything else
